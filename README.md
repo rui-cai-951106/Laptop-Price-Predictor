@@ -26,8 +26,3 @@ The pickle files which contain the dataframe and trained model.
 The python script containing the code for streamlit app.
 ## 5. Requirements File
 The requirements and dependencies needed for this project.
-
-
-
-## Contributing
-If you would like to contribute to this project, you can fork the repository and submit a pull request with your changes. Please make sure to test your changes thoroughly before submitting the pull request.
