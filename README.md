@@ -31,6 +31,3 @@ The requirements and dependencies needed for this project.
 
 ## Contributing
 If you would like to contribute to this project, you can fork the repository and submit a pull request with your changes. Please make sure to test your changes thoroughly before submitting the pull request.
-
-### Thanks for visiting!
-I would like to take a moment to express my gratitude for visiting my repository on GitHub. Your interest in my work means a lot to me and encourages me to continue contributing to the community. If you have any questions or feedback, please do not hesitate to contact me here: ajinkode@gmail.com
